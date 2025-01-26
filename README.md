@@ -2,7 +2,7 @@
 
 Collection of useful lists, blogs, tools and ressources from and for the web. Inspired by the many awesome-lists out there. 
 
-Feel free to contribute or customise the lists as you like!
+Feel free to contribute to this project by opening issues or pull requests!
 
 ## Awesome lists 📋
 
@@ -36,6 +36,7 @@ Feel free to contribute or customise the lists as you like!
 * https://ansible.sivel.net/test/ - Ansible Template Tester
 * https://instances.vantage.sh/ - EC2/RDS instance cost comparison 
 * https://web.archive.org/ - The Wayback Machine on the internet archive
+* https://gitmoji.dev/ - An emoji guide for your commit messages
 
 ## Graphics & fonts 👩‍🎨🧑‍🎨
 
