@@ -2,7 +2,7 @@
 
 Collection of useful lists, blogs, tools and ressources from and for the web. Inspired by the many awesome-lists out there. 
 
-Feel free to contribute to this project by opening issues or pull requests!
+Feel free to contribute to this project by [opening issues](https://github.com/login?return_to=https://github.com/simon-baumgaertel/awesome-list/issues) or [pull requests](https://github.com/simon-baumgaertel/awesome-list/compare)!
 
 ## Awesome lists 📋
 
