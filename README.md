@@ -37,6 +37,8 @@ Feel free to contribute to this project by [opening issues](https://github.com/l
 * https://instances.vantage.sh/ - EC2/RDS instance cost comparison 
 * https://web.archive.org/ - The Wayback Machine on the internet archive
 * https://gitmoji.dev/ - An emoji guide for your commit messages
+* https://app.diagrams.net/ - free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams.
+* https://mermaid.js.org/ - JavaScript based diagramming and charting tool that renders Markdown-inspired text definitions to create and modify diagrams dynamically
 
 ## Graphics & fonts 👩‍🎨🧑‍🎨
 
@@ -46,6 +48,7 @@ Feel free to contribute to this project by [opening issues](https://github.com/l
 ### Illustrations ✏️
 
 * https://undraw.co/ - Open-source illustrations for any idea you can imagine and create
+* https://storyset.com/ - Awesome free customizable illustrations for your next project
 * https://uxcelona.github.io/free-svg-illustrations - free svg illustrations
 * https://www.humaaans.com/ - mix-&-match illustrations of people with a design library
 * https://www.drawkit.com/ - hand-drawn 2D & 3D illustrations, icons and animations
@@ -70,6 +73,7 @@ Feel free to contribute to this project by [opening issues](https://github.com/l
 ### Icons ⭐
 
 * https://tablericons.com/ - Open source free SVG icons. Highly customizable. No attribution required. For commercial use. 
+* https://iconify.design/ - Freedom to choose icons. All popular icon sets, one framework. Over 200,000 open source vector icons.
 * https://css.gg/ - CSS Symbols
 * https://fontawesome.com/ - "Internet's icon library and toolkit"
 * https://icons8.com/ 
@@ -81,4 +85,4 @@ Feel free to contribute to this project by [opening issues](https://github.com/l
 ### Fonts ✒️
 
 * https://www.fontsquirrel.com/ - Free Fonts for Commercial Use
-* https://fonts.google.com/ - 
+* https://fonts.google.com/ 
